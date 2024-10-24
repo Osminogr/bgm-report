@@ -1,2 +1,2 @@
-# bgm-report
-# bgm-report
+
+[Отчет](report.md)
